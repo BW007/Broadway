@@ -4,18 +4,29 @@
   text-align: center;
 }
 
-div {
-  display: block;
-}
 
-div.header {
-  width: 1264px;
-  height: 296.89px;
+.nav {
+  color: white;
+  font-size: 17px;
 }
 
 h1 {
-  font-size: 80px;
+  font-size: 70px;
   font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
 }
 
 body {
