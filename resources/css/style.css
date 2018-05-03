@@ -1,9 +1,8 @@
 .header {
-  background-image: url('/Users/bethwilson/Desktop/Projects/broadway/resources/images/the-flatiron-building.png');
+  background-image: url('../images/the-flatiron-building.png');
   color: white;
   text-align: center;
 }
-
 
 .nav {
   color: white;
