@@ -33,3 +33,10 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
+
+div.footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
