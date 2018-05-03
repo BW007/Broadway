@@ -1,4 +1,24 @@
+.header {
+  background-image: url('/Users/bethwilson/Desktop/Projects/broadway/resources/images/the-flatiron-building.png');
+  color: white;
+  text-align: center;
+}
+
+div {
+  display: block;
+}
+
+div.header {
+  width: 1264px;
+  height: 296.89px;
+}
+
 h1 {
-  color: blue;
-  font-size: 50px;
+  font-size: 80px;
+  font-weight: bold;
+}
+
+body {
+  text-align: center;
+  font-family: Helvetica;
 }
